@@ -1,0 +1,29 @@
+body {
+    background-color: darkcyan;
+    color: yellow;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dos {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+fieldset {
+    color: white;
+}
+
+footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    background-color: aliceblue;
+    color: green;
+    width: 100%;
+}
